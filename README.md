@@ -5,8 +5,6 @@
 
 A restaurant web application with laravel 8 that enables you to share menus, and customers can book orders and manage your restaurant in a simple and excellent way
 
-Discover [Vedio](https://abderrahmaneamerrhi.com/assets/vedresto_withMusic-3035c394.mp4).
-
 ## Information
 
 I built the app using laravel , made a simple backend CRUD and use blade in front end
